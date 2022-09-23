@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\Libraries\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\MarkerTracker.h(6,19): warning C4099: 'CvMemStorage': type name first seen using 'struct' now seen using 'class'
+C:\opencv\build\include\opencv2\core\types_c.h(1493): message : see declaration of 'CvMemStorage'
+C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\main.cpp(160,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\main.cpp(162,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\main.cpp(231,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\main.cpp(267,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CubeAR.vcxproj -> C:\Augmented Reality\Github_AR_Lecture_Project\Github\CubeAR\x64\Debug\CubeAR.exe
